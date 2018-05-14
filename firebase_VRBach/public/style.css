@@ -1,0 +1,42 @@
+html, body {
+  margin: 0;
+  padding-top: 50px;
+  font-family: "Helvetica", serif;
+}
+
+#topscore {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: auto;
+  margin-bottom: 20px;
+  height: 30vh;
+  width: 70vh;
+  box-shadow: 2px 2px 2px 2px lightgray;
+  text-align: center;
+}
+#scoreTS {
+  font-size: 5em;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#nameTS {
+  font-size: 2em;
+}
+
+.name {
+  margin: 20px;
+}
+.score {
+  text-align: right;
+  float: right;
+}
+
+.scoreentry {
+  margin: auto;
+  padding: 20px;
+  width: 70vh;
+  border-color: black;
+  border-top: 1px solid grey;
+}
+

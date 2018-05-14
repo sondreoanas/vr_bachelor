@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - box1
+  - box2
+  - box3
+  - box4
+  - controller1
+  - controller2
+  - box
+  - balanceBoard
+  - Floor
+  - gamescoretext
+  - BG_Timer
+  - BG_Canvas
+  - dontTouch
+  - box5
+  - box6
+  - box7
+  - box8
+  - box9
+  - box10
+  - box11
+  - box12
+  - box13
+  - box14
+  - box15
+  - box16
+  - BG_Pyramid
+  - BG_GameController
+  - Timer
+  - dead
+  - NameOfPlayer
+  - Keyboard
+  - Navn_informasjon_tid
+  - StartButton
+  - ScoreBoard
+  - boxdetector
+  - DBRef
+  - BoxCounter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
