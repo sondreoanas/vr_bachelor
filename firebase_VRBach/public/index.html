@@ -3,7 +3,8 @@
   <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="design_style.css">
+
     <meta charset="utf-8">
     <title></title>
   </head>
@@ -14,9 +15,40 @@
         </div>
         <button id="login" class="btn btn-primary" type="button">Login</button>
       </nav>
-    
-    <div id="topscore"><p>Top Score:</p><p id="scoreTS">7000</p><p id="nameTS">Sondre</p></div>
-    <div id="placeHolderCP"></div>
+      <div class="scorebar">
+        <h2 style="text-align:center;"> Score Board </h2>
+      </div>
+      <div id="topscore">
+        <div class="conf-cont">
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+            <div class="confetti"></div>
+          </div>
+      <div id="winnerbox">
+      <img id="champion" src="vr_winner.png">
+      
+      <p id="nameTS">Sondre</p>
+      <p id="scoreTS">7000 </p>
+      <span class="poengtext">points</span>
+    </div>
+    </div>    <div id="placeHolderCP"></div>
     <div id="placeHolderSB"></div>
     <script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
     <script src="databaseRetrival.js"></script>
