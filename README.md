@@ -3,6 +3,5 @@
 
 ## Project Overview
   * [Game File](Game.7z)
-  * [Game Scripts](TekNat_VR_Spill/Assets/Scripts/)
   * [Scoreboard Web Page](https://htcvruis2018.firebaseapp.com/index.html)
   * [Scoreboard Web Page Files](firebase_VRBach/public/)
